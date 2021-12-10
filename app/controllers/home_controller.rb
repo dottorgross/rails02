@@ -4,4 +4,7 @@ class HomeController < ApplicationController
         # ma richiama la corrispondente
         # vista index
     end
+
+    def chi_siamo
+    end
 end
